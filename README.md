@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # budget_app_ui
 <p float="left">
   <img src="images/1.jpeg" width="200" />
